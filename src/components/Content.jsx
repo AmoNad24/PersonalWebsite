@@ -4,7 +4,7 @@ import photo from '../assets/Amogh-ProfPic-modified.png';
 export default function Content() {
   return (
     <>
-    <div >
+    <div className='h-screen w-screen'>
 
     <div className='flex justify-center gap-3 text-black  my-24 mx-auto '>
       <img src={photo} alt='profpic' className='h-72 w-72'/>

@@ -11,7 +11,8 @@ function App() {
       <div className="ml-5 font-mono">Amogh Nadkarni</div>
       <div className="flex  gap-x-8 mr-5">
      <a href="https://drive.google.com/file/d/1kjMQyHWMdB6npuADMdN4wJwXfqI9HwKm/view?usp=sharing" target="_blank">Resume</a>
-     <button>Contact Me</button>
+     <a href="mailto:amoghvnadkarni001@gmail.com">Contact Me</a>
+     
       </div>
      </div>
 
